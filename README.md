@@ -1,6 +1,6 @@
 # PriceComparisonWebsite WORDPRESS WEBSITE
 
-Tap here to view the site--https://apurva39.github.io/PriceComparisonWebsite/localhost/wordpress/index.html
+Tap here to view the site-- https://sparkly-rolypoly-fdd43b.netlify.app/localhost/wordpress/index.html
 
 ![Screenshot 2022-01-21 111008](https://user-images.githubusercontent.com/88641285/150622565-17131374-d7d0-4091-9c97-f616cbd754f9.png)
 
